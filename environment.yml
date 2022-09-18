@@ -6,9 +6,9 @@ channels:
   - defaults
 dependencies:
   - python=3.8.3
-  - pytorch=1.7.0
+  - pytorch=1.8.1
   - torchvision=0.8.1
-  - cudatoolkit=10.1
+  - cudatoolkit=11.3
   - tensorboard=2.4.0
   - pyyaml=5.3.1
   - python-lmdb=0.98
